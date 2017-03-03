@@ -49,8 +49,39 @@ Markdown 是一种轻量级标记语言
 - 行内代码 
 行内的代码 `strcpy(strDes, strSrc);`
 
+## 水平分割线   
+---
+***
+___
+
+## HTML语法
+<p align='center'>文字居中</p>
+<!--
+注释性文字，不会被显示
+-->
+
+## 表格
+|     表头       |       表头     | 表头  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+## GFM语法 
+Github 拓展的基于 Markdown 的一种纯文本的书写格式。
+
+任务列表
+- [x] item1
+- [ ] item2
+- [x] item3
+
+表情      
+:smile:   
+:pray:    
+整理好的表情code，可以直接在此查看[emoji](https://github.com/guodongxiaren/README/blob/master/emoji.md)。
 # reference
 - [简书：献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
+- [GFM:GitHub Flavored Markdown](https://github.com/guodongxiaren/README)
 
 <!-- 下面是本文用到的链接 -->
 [引用式链接]: https://www.baidu.com
